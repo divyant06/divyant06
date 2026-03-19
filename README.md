@@ -11,7 +11,7 @@ Hi there, I'm Divyant! 👋<br><br>First-Year CSE Student | Full-Stack Developer
 ![](https://github-readme-stats.vercel.app/api?username=divyant06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divyant06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyant06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Most Used Languages](./profile-summary-card-output/dark/most-used-languages.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyant06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
